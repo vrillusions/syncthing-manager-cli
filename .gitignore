@@ -1,0 +1,6 @@
+# Initial gitignore.
+__pycache__/
+.py[cod]
+.python-version
+.venv
+venv/
