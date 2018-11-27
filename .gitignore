@@ -4,4 +4,5 @@ __pycache__/
 .python-version
 .venv
 venv/
-config.yml
+config.ini
+certs/

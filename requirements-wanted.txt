@@ -1,4 +1,3 @@
 # List all the requirements I care about minus dependencies
 syncthing
-pyyaml
 appdirs
